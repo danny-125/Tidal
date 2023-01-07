@@ -30,6 +30,7 @@ https://discord.gg/kzDCedM3zu
 ### Usage:
 - Navigate to "%appdata%/.minecraft/versions" and place the contents of the zip file in there. In the minecraft launcher create a new installation and scroll down
 to Tidal.
+- Once you launch the client, press get key in order to get a key to get access to the client!
 
 ### Story:
 Ever since I abandoned peroxide, I always wanted to make another client. The biggest reason developers quit developing their client after releasing is because they
