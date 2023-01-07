@@ -14,11 +14,11 @@
 
 <div align="center">
   <a href="https://github.com/danny-125/Peroxide/releases/latest"><img src="https://img.shields.io/github/v/release/danny-125/Peroxide"></a>
-  <img src="https://img.shields.io/github/last-commit/danny-125/Peroxide">
-  <img src="https://img.shields.io/github/commit-activity/m/danny-125/Peroxide">
+  <img src="https://img.shields.io/github/last-commit/danny-125/Tidal">
+  <img src="https://img.shields.io/github/commit-activity/m/danny-125/Tidal">
   <img src="https://img.shields.io/github/languages/code-size/danny-125/Peroxide">
   <img src="https://img.shields.io/tokei/lines/github/danny-125/Peroxide">
-  <img src="https://img.shields.io/github/downloads/danny-125/Peroxide/total">
+  <img src="https://img.shields.io/github/downloads/danny-125/Tidal/total">
 	
 
 </div>
